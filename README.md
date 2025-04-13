@@ -1,4 +1,4 @@
-# CodePortfolio
+# CodePortfolio (Game Development Student)
 <h2 align="left"> 
   Hello My Name is Ayin! 👾<br><br>
   Welcome to my coding journey to success and to fulfilling my long-term dream of being remembered as one of the dev contributors to a popular industry or game project someday. 
@@ -62,6 +62,8 @@
 </div>
 
 ###
+
+<br>
 
 <br clear="both">
 
