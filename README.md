@@ -63,6 +63,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Kyah-Ain/Kyah-Ain/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Kyah-Ain/CodePortfolio/output/snake.svg" alt="Snake animation" />
 
 ###
