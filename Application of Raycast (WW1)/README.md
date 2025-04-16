@@ -14,3 +14,4 @@ The laser can destroy any enemies it hits.
 
 ## Project Type
 - Individual
+
